@@ -1,1 +1,4 @@
-Input "What Army?"
+Print("What Army?")
+Army= Input()
+If Army== "Space marines":
+  
