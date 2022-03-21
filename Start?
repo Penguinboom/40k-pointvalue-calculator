@@ -1,4 +1,4 @@
-Print("What Army?")
-Army= Input()
-If Army== "Space marines":
+print("What Army?")
+Army= input()
+if Army== "Space marines":
   
