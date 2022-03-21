@@ -1,7 +1,1 @@
-echo "# 40k-pointvalue-calculator-for-ti-basic" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Penguinboom/40k-pointvalue-calculator-for-ti-basic.git
-git push -u origin main
+Input "What Army?"
